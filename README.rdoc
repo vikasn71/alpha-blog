@@ -1,1 +1,1 @@
-This is the first rails app od complete ruby on rails developer course.
+This is the first rails app of complete ruby on rails developer course.
